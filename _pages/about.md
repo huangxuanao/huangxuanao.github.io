@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Third-year Computer Science and Technology student (Turing Class) at HUST. 
+I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Computer Science (Turing Class) at HUST. 
 
-My research interest includes Multimodal Large Language Models and AI Agents. I am currently a Third-year student in the Turing Class of Computer Science at HUST.
+My research interest includes *Multimodal Large Language Models*, *Multimodal AI Agents*, *Multi-agent Systems* and *Embodied Intelligence*. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -27,7 +27,7 @@ My research interest includes Multimodal Large Language Models and AI Agents. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages]()
