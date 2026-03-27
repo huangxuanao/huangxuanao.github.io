@@ -55,32 +55,36 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- **CCF Elite Collegiate Award** (2025)
-- **National Scholarship** (2023-2024)
-- *Gold Medal*, CCF Collegiate Computer Systems & Programming Contest (CCSP) (2024, 2025)
-- *Gold Medal*, Baidu Astar Programming Contest (2024, 2025)
+
+<ul>
+  <li><b>CCF Elite Collegiate Award</b> (2025)</li>
+  <li><b>National Scholarship</b> (2023-2024)</li>
+  <li><b>Gold Medal</b>, CCF Collegiate Computer Systems & Programming Contest (CCSP) (2024, 2025)</li>
+  <li><b>Gold Medal</b>, Baidu Astar Programming Contest (2024, 2025)</li>
+  <li><b>Gold Medal</b>, China Collegiate Computer Contest (2024, 2025)</li>
+</ul>
 
 <details>
-  <summary><strong>ICPC Series Awards</strong></summary>
-  <ul>
-    <li><em>Bronze Medal</em>, The 2025 ICPC Asia-East Continent Final Contest</li>
-    <li><em>Gold Medal</em>, The 2025 ICPC Asia Xi'an Regional Contest</li>
-    <li><em>Silver Medal</em>, The 2024 ICPC Asia-East Continent Final Contest</li>
-    <li><em>Gold Medal</em>, The 2024 ICPC Asia Shanghai Regional Contest</li>
-    <li><em>Silver Medal</em>, The 2024 ICPC Asia Chengdu Regional Contest</li>
-    <li><em>Silver Medal</em>, The 2023 ICPC Asia Hefei Regional Contest</li>
-  </ul>
-</details>
+    <summary><b>ICPC Series Awards</b></summary>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li><b>Bronze Medal</b>, The 2025 ICPC Asia-East Continent Final Contest</li>
+      <li><b>Gold Medal</b>, The 2025 ICPC Asia Xi'an Regional Contest</li>
+      <li><b>Silver Medal</b>, The 2024 ICPC Asia-East Continent Final Contest</li>
+      <li><b>Gold Medal</b>, The 2024 ICPC Asia Shanghai Regional Contest</li>
+      <li><b>Silver Medal</b>, The 2024 ICPC Asia Chengdu Regional Contest</li>
+      <li><b>Silver Medal</b>, The 2023 ICPC Asia Hefei Regional Contest</li>
+    </ul>
+  </details>
 
-<details>
-  <summary><strong>CCPC Series Awards</strong></summary>
-  <ul>
-    <li><em>Gold Medal</em>, The 2025 CCPC Jinan Regional Contest</li>
-    <li><em>Silver Medal</em>, The 2025 CCPC Harbin Regional Contest</li>
-    <li><em>Bronze Medal</em>, The 2024 CCPC Final Contest</li>
-    <li><em>Silver Medal</em>, The 2024 CCPC Chongqing Regional Contest</li>
-  </ul>
-</details>
+  <details>
+    <summary><b>CCPC Series Awards</b></summary>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li><b>Gold Medal</b>, The 2025 CCPC Jinan Regional Contest</li>
+      <li><b>Silver Medal</b>, The 2025 CCPC Harbin Regional Contest</li>
+      <li><b>Bronze Medal</b>, The 2024 CCPC Final Contest</li>
+      <li><b>Silver Medal</b>, The 2024 CCPC Chongqing Regional Contest</li>
+    </ul>
+  </details>
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, Compupter Science and Technology (Turing Class), Huazhong University of Science and Technology.
