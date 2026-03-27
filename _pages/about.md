@@ -64,7 +64,7 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
   <li><b>Gold Medal</b>, China Collegiate Computer Contest (2024, 2025)</li>
 </ul>
 
-<details>
+<details style="padding-left: 40px;">
     <summary><b>ICPC Series Awards</b></summary>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li><b>Bronze Medal</b>, The 2025 ICPC Asia-East Continent Final Contest</li>
@@ -76,15 +76,15 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
     </ul>
   </details>
 
-  <details>
-    <summary><b>CCPC Series Awards</b></summary>
-    <ul style="margin-top: 10px; padding-left: 20px;">
-      <li><b>Gold Medal</b>, The 2025 CCPC Jinan Regional Contest</li>
-      <li><b>Silver Medal</b>, The 2025 CCPC Harbin Regional Contest</li>
-      <li><b>Bronze Medal</b>, The 2024 CCPC Final Contest</li>
-      <li><b>Silver Medal</b>, The 2024 CCPC Chongqing Regional Contest</li>
-    </ul>
-  </details>
+<details style="padding-left: 40px;">
+  <summary><b>CCPC Series Awards</b></summary>
+  <ul style="margin-top: 10px; padding-left: 20px;">
+    <li><b>Gold Medal</b>, The 2025 CCPC Jinan Regional Contest</li>
+    <li><b>Silver Medal</b>, The 2025 CCPC Harbin Regional Contest</li>
+    <li><b>Bronze Medal</b>, The 2024 CCPC Final Contest</li>
+    <li><b>Silver Medal</b>, The 2024 CCPC Chongqing Regional Contest</li>
+  </ul>
+</details>
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, Compupter Science and Technology (Turing Class), Huazhong University of Science and Technology.
