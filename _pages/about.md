@@ -34,6 +34,8 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 **Xuanao Huang\***, Xingjia Liu\*, Zetong Zhou, Yuyang Peng, Yao Wan, Dongping Chen 
 
+(* Equal contribution)
+
 </div>
 </div>
 
@@ -43,6 +45,8 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 [Measuring Visual Generative Intelligence with VGI-Bench]()
 
 Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, Yao Wan, Ranjay Krishna
+
+(* Equal contribution)
 
 </div>
 </div>
