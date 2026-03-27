@@ -55,10 +55,10 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *CCF Elite Collegiate Award* (2025)
-- *National Scholarship* (2023-2024)
+- **CCF Elite Collegiate Award** (2025)
+- **National Scholarship** (2023-2024)
 
-<details>
+- <details>
   <summary><strong>Series of ICPC Awards</strong></summary>
 
   - *Bronze Award*, The 2025 ICPC Asia-East Continent Final Contest
@@ -69,7 +69,7 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
   - *Silver Award*, The 2023 ICPC Asia Hefei Regional Contest
 </details>
 
-<details>
+- <details>
   <summary><strong>Series of CCPC Awards</strong></summary>
 
   - *Golden Award*, The 2025 CCPC Jinan Regional Contest
