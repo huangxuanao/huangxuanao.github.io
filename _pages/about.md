@@ -59,23 +59,25 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
 - **National Scholarship** (2023-2024)
 
 - <details>
-  <summary><strong>Series of ICPC Awards</strong></summary>
-
-  - *Bronze Award*, The 2025 ICPC Asia-East Continent Final Contest
-  - *Golden Award*, The 2025 ICPC Asia Xi'an Regional Contest
-  - *Silver Award*, The 2024 ICPC Asia-East Continent Final Contest
-  - *Golden Award*, The 2024 ICPC Asia Shanghai Regional Contest
-  - *Silver Award*, The 2024 ICPC Asia Chengdu Regional Contest
-  - *Silver Award*, The 2023 ICPC Asia Hefei Regional Contest
+  <summary><strong>ICPC Series Awards</strong></summary>
+  <ul>
+    <li><em>Bronze Award</em>, The 2025 ICPC Asia-East Continent Final Contest</li>
+    <li><em>Gold Award</em>, The 2025 ICPC Asia Xi'an Regional Contest</li>
+    <li><em>Silver Award</em>, The 2024 ICPC Asia-East Continent Final Contest</li>
+    <li><em>Gold Award</em>, The 2024 ICPC Asia Shanghai Regional Contest</li>
+    <li><em>Silver Award</em>, The 2024 ICPC Asia Chengdu Regional Contest</li>
+    <li><em>Silver Award</em>, The 2023 ICPC Asia Hefei Regional Contest</li>
+  </ul>
 </details>
 
 - <details>
-  <summary><strong>Series of CCPC Awards</strong></summary>
-
-  - *Golden Award*, The 2025 CCPC Jinan Regional Contest
-  - *Silver Award*, The 2025 CCPC Harbin Regional Contest
-  - *Bronze Award*, The 2024 CCPC Final Contest
-  - *Silver Award*, The 2024 CCPC Chongqing Regional Contest
+  <summary><strong>CCPC Series Awards</strong></summary>
+  <ul>
+    <li><em>Gold Award</em>, The 2025 CCPC Jinan Regional Contest</li>
+    <li><em>Silver Award</em>, The 2025 CCPC Harbin Regional Contest</li>
+    <li><em>Bronze Award</em>, The 2024 CCPC Final Contest</li>
+    <li><em>Silver Award</em>, The 2024 CCPC Chongqing Regional Contest</li>
+  </ul>
 </details>
 
 - *Gold Medal*, CCF Collegiate Computer Systems & Programming Contest (CCSP) (2024, 2025)
