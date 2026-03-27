@@ -68,7 +68,7 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
   <li><b>Gold Medal</b>, China Collegiate Computer Contest (2024, 2025)</li>
 </ul>
 
-<details style="padding-left: 15px;">
+<details open style="padding-left: 15px;">
     <summary><b>ICPC Series Awards</b></summary>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li><b>Bronze Medal</b>, The 2025 ICPC Asia-East Continent Final Contest</li>
@@ -80,7 +80,7 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
     </ul>
   </details>
 
-<details style="padding-left: 15px;">
+<details open style="padding-left: 15px;">
   <summary><b>CCPC Series Awards</b></summary>
   <ul style="margin-top: 10px; padding-left: 20px;">
     <li><b>Gold Medal</b>, The 2025 CCPC Jinan Regional Contest</li>
