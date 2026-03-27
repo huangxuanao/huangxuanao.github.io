@@ -27,12 +27,12 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages]()
 
-**Xuanao Huang\***, Xingjia Liu*, Zetong Zhou, Yuyang Peng, Yao Wan, Dongping Chen 
+**Xuanao Huang\***, Xingjia Liu\*, Zetong Zhou, Yuyang Peng, Yao Wan, Dongping Chen 
 
 </div>
 </div>
@@ -42,7 +42,7 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 [Measuring Visual Generative Intelligence with VGI-Bench]()
 
-Dongping Chen*, Ruoxi Chen*, **Xuanao Huang\***, Wang Yishan*, Junqi Yang*, Yao Wan, Ranjay Krishna
+Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, Yao Wan, Ranjay Krishna
 
 </div>
 </div>
@@ -58,17 +58,25 @@ Dongping Chen*, Ruoxi Chen*, **Xuanao Huang\***, Wang Yishan*, Junqi Yang*, Yao 
 - *CCF Elite Collegiate Award* (2025)
 - *National Scholarship* (2023-2024)
 
-- *Golden Award*, The 2025 CCPC Jinan Regional Contest
-- *Silver Award*, The 2025 CCPC Harbin Regional Contest
-- *Bronze Award*, The 2024 CCPC Final Contest
-- *Silver Award*, The 2024 CCPC Chongqing Regional Contest
+<details>
+  <summary><strong>Series of ICPC Awards</strong></summary>
 
-- *Bronze Award*, The 2025 ICPC Asia-East Continent Final Contest
-- *Golden Award*, The 2025 ICPC Asia Xi'an Regional Contest
-- *Silver Award*, The 2024 ICPC Asia-East Continent Final Contest
-- *Golden Award*, The 2024 ICPC Asia Shanghai Regional Contest
-- *Silver Award*, The 2024 ICPC Asia Chengdu Regional Contest
-- *Silver Award*, The 2023 ICPC Asia Hefei Regional Contest
+  - *Bronze Award*, The 2025 ICPC Asia-East Continent Final Contest
+  - *Golden Award*, The 2025 ICPC Asia Xi'an Regional Contest
+  - *Silver Award*, The 2024 ICPC Asia-East Continent Final Contest
+  - *Golden Award*, The 2024 ICPC Asia Shanghai Regional Contest
+  - *Silver Award*, The 2024 ICPC Asia Chengdu Regional Contest
+  - *Silver Award*, The 2023 ICPC Asia Hefei Regional Contest
+</details>
+
+<details>
+  <summary><strong>Series of CCPC Awards</strong></summary>
+
+  - *Golden Award*, The 2025 CCPC Jinan Regional Contest
+  - *Silver Award*, The 2025 CCPC Harbin Regional Contest
+  - *Bronze Award*, The 2024 CCPC Final Contest
+  - *Silver Award*, The 2024 CCPC Chongqing Regional Contest
+</details>
 
 - *Gold Medal*, CCF Collegiate Computer Systems & Programming Contest (CCSP) (2024, 2025)
 - *Gold Medal*, Baidu Astar Programming Contest (2024, 2025)
