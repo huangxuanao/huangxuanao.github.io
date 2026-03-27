@@ -30,7 +30,7 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages]()
+**Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages**
 
 **Xuanao Huang\***, Xingjia Liu\*, Zetong Zhou, Yuyang Peng, Yao Wan, Dongping Chen 
 
@@ -42,7 +42,7 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ECCV 2026</div><img src='images/VGI-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Measuring Visual Generative Intelligence with VGI-Bench]()
+**Measuring Visual Generative Intelligence with VGI-Bench**
 
 Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, Yao Wan, Ranjay Krishna
 
