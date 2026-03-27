@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Computer Science (Turing Class) at HUST. 
+I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Computer Science (Turing Class), HUST. 
 
 My research interest includes **Multimodal Large Language Models**, **Multimodal AI Agents**, **Multi-agent Systems** and **Embodied Intelligence**. 
 
