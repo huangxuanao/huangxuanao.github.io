@@ -19,7 +19,7 @@ redirect_from:
 
 I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Computer Science (Turing Class) at HUST. 
 
-My research interest includes *Multimodal Large Language Models*, *Multimodal AI Agents*, *Multi-agent Systems* and *Embodied Intelligence*. 
+My research interest includes **Multimodal Large Language Models**, **Multimodal AI Agents**, **Multi-agent Systems** and **Embodied Intelligence**. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -27,12 +27,15 @@ My research interest includes *Multimodal Large Language Models*, *Multimodal AI
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ACL 2026</div><img src='images/LiveVQA-W.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages]()
 
 **Xuanao Huang\***, Xingjia Liu*, Zetong Zhou, Yuyang Peng, Yao Wan, Dongping Chen 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ECCV 2026</div><img src='images/VGI-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,6 +43,9 @@ My research interest includes *Multimodal Large Language Models*, *Multimodal AI
 [Measuring Visual Generative Intelligence with VGI-Bench]()
 
 Dongping Chen*, Ruoxi Chen*, **Xuanao Huang\***, Wang Yishan*, Junqi Yang*, Yao Wan, Ranjay Krishna
+
+</div>
+</div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
