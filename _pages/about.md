@@ -22,7 +22,7 @@ I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Co
 My research interest includes **Multimodal Large Language Models**, **Multimodal AI Agents**, **Multi-agent Systems** and **Embodied Intelligence**. 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 [2026.04] Our paper about Worldwide-LiveVQA accepted by ACL 2026 Findings! 
+- *2026.04*: &nbsp;🎉🎉 Our paper on Worldwide-LiveVQA has been accepted by ACL 2026 Findings! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
