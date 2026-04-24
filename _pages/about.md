@@ -27,10 +27,10 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Findings)</div><img src='images/LiveVQA-W.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://worldwide-livevqa.github.io/' target='_blank' rel='noopener noreferrer'><div class="badge">ACL 2026 (Findings)</div><img src='images/LiveVQA-W.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages**
+[**Worldwide LiveVQA: Real-Time Visual Knowledge Seeking and Updating Across Languages**](https://worldwide-livevqa.github.io/)
 
 **Xuanao Huang\***, Xingjia Liu\*, Zetong Zhou, Yuyang Peng, Yao Wan, Dongping Chen 
 
