@@ -27,7 +27,7 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><a href='https://arxiv.org/abs/2606.00579' target='_blank' rel='noopener noreferrer'><div class="badge">arXiv 2026</div><img src='images/OmniCoding.png' alt="OmniCoding" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://arxiv.org/abs/2606.00579' target='_blank' rel='noopener noreferrer'><div class="badge">Under Review of NeurIPS 2026</div><img src='images/OmniCoding.png' alt="OmniCoding" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**](https://arxiv.org/abs/2606.00579)
