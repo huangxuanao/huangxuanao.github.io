@@ -27,6 +27,18 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://arxiv.org/abs/2606.00579' target='_blank' rel='noopener noreferrer'><div class="badge">arXiv 2026</div><img src='images/OmniCoding.png' alt="OmniCoding" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**](https://arxiv.org/abs/2606.00579)
+
+Dongping Chen, **Xuanao Huang**, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi Zhou
+
+[\[arXiv\]](https://arxiv.org/abs/2606.00579) [\[Code\]](https://github.com/Dongping-Chen/OmniCoding)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><a href='https://worldwide-livevqa.github.io/' target='_blank' rel='noopener noreferrer'><div class="badge">ACL 2026 (Findings)</div><img src='images/LiveVQA-W.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
