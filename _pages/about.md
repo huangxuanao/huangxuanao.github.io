@@ -32,7 +32,9 @@ My research interest includes **Multimodal Large Language Models**, **Multimodal
 
 [**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**](https://arxiv.org/abs/2606.00579)
 
-Dongping Chen, **Xuanao Huang**, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi Zhou
+Dongping Chen\*, **Xuanao Huang\***, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi Zhou
+
+(* Equal contribution)
 
 [\[arXiv\]](https://arxiv.org/abs/2606.00579) [\[Code\]](https://github.com/Dongping-Chen/OmniCoding)
 
