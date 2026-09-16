@@ -53,7 +53,7 @@ Dongping Chen\*, **Xuanao Huang\***, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ECCV 2026</div><img src='images/VGI-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ICLR 2027</div><img src='images/VGI-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Measuring Visual Generative Intelligence with VGI-Bench**
