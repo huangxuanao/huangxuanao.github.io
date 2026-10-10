@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuanao Huang"
-description              : "Third-year Computer Science and Technology student (Turing Class) at HUST."
+description              : "Fourth-year Computer Science and Technology student (Turing Class) at HUST. Incoming master's student at the School of Software, Tsinghua University (2027)."
 repository               : "huangxuanao/huangxuanao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuanao Huang"
   avatar           : "images/person-photo.jpg"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "HUST undergraduate · Incoming master's student at Tsinghua University (2027)"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=quExKoQAAAAJ&hl=zh-CN"
   email            : "1369401192@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Computer Science (Turing Class), HUST. 
+I'm Xuanao Huang (黄暄骜), a fourth-year undergraduate student in Computer Science and Technology (Turing Class) at Huazhong University of Science and Technology (HUST). I will join the School of Software at Tsinghua University as a master's student in September 2027.
 
 My research interest includes **Multimodal Large Language Models**, **Multimodal AI Agents**, **Multi-agent Systems** and **Embodied Intelligence**. 
 
@@ -83,7 +83,8 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
   <li><b>National Scholarship</b> (2023-2024)</li>
   <li><b>Gold Medal</b>, CCF Collegiate Computer Systems & Programming Contest (CCSP) (2024, 2025)</li>
   <li><b>Gold Medal</b>, Baidu Astar Programming Contest (2024, 2025)</li>
-  <li><b>Gold Medal</b>, China Collegiate Computer Contest (2024, 2025)</li>
+  <li><b>First Prize</b>, Huawei Software Elite Challenge (2026)</li>
+  <li><b>First Prize</b>, China Collegiate Computer Contest &ndash; Group Programming Ladder Tournament (2024, 2025, 2026)</li>
 </ul>
 
 <details open style="padding-left: 15px;">
@@ -101,6 +102,7 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
 <details open style="padding-left: 15px;">
   <summary><b>CCPC Series Awards</b></summary>
   <ul style="margin-top: 10px; padding-left: 20px;">
+    <li><b>Bronze Medal</b>, The 2026 CCPC Final Contest</li>
     <li><b>Gold Medal</b>, The 2025 CCPC Jinan Regional Contest</li>
     <li><b>Silver Medal</b>, The 2025 CCPC Harbin Regional Contest</li>
     <li><b>Bronze Medal</b>, The 2024 CCPC Final Contest</li>
@@ -108,8 +110,9 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
   </ul>
 </details>
 
-# 📖 Educations
-- *2023.09 - 2027.06 (expected)*, Compupter Science and Technology (Turing Class), Huazhong University of Science and Technology.
+# 📖 Education
+- *2027.09 - 2029.06 (expected)*, Incoming master's student, School of Software, Tsinghua University.
+- *2023.09 - 2027.06 (expected)*, Computer Science and Technology (Turing Class), Huazhong University of Science and Technology.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
