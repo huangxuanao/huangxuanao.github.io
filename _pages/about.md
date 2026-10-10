@@ -22,12 +22,13 @@ I'm Xuanao Huang(黄暄骜), a third-year undergraduate student at College of Co
 My research interest includes **Multimodal Large Language Models**, **Multimodal AI Agents**, **Multi-agent Systems** and **Embodied Intelligence**. 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper "Sandboxed Coding Agents are Competitive Omni-modal Task Solvers" has been accepted by NeurIPS 2026!
 - *2026.04*: &nbsp;🎉🎉 Our paper on Worldwide-LiveVQA has been accepted by ACL 2026 Findings! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><a href='https://arxiv.org/abs/2606.00579' target='_blank' rel='noopener noreferrer'><div class="badge">Under Review of NeurIPS 2026</div><img src='images/OmniCoding.png' alt="OmniCoding" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://arxiv.org/abs/2606.00579' target='_blank' rel='noopener noreferrer'><div class="badge">NeurIPS 2026</div><img src='images/OmniCoding.png' alt="OmniCoding" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**](https://arxiv.org/abs/2606.00579)
@@ -53,6 +54,8 @@ Dongping Chen\*, **Xuanao Huang\***, Zhihan Hu, Qingyuan Shi, Dianqi Li, Tianyi 
 </div>
 </div>
 
+{% comment %}
+Temporarily hidden; remove this Liquid comment wrapper to restore the VGI-Bench entry.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review of ICLR 2027</div><img src='images/VGI-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,6 +67,7 @@ Dongping Chen\*, Ruoxi Chen\*, **Xuanao Huang\***, Yishan Wang\*, Junqi Yang\*, 
 
 </div>
 </div>
+{% endcomment %}
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
